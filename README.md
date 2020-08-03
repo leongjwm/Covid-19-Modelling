@@ -1,5 +1,6 @@
 # Covid-19-Modelling
 A data science code project for Lifehack 2020 datathon competition by NUS.
+
 Our group reached the top 10 finals round.
 
 This repository contains 3 files containing:
