@@ -11,5 +11,5 @@ This repository contains 3 files containing:
 Dataset links:
 * Daily_stats - https://ourworldindata.org/coronavirus-source-data
 * Country_loc - https://www.kaggle.com/eidanch/counties-geographic-coordinates
-* Patient_data_v5 - 
-* Patient_data_v6 - 
+* Patient_data_v5 - https://www.kaggle.com/shirmani/characteristics-corona-patients?select=Characteristics_Corona_patients+version5+6%E2%80%937%E2%80%9320.csv
+* Patient_data_v6 - https://www.kaggle.com/shirmani/characteristics-corona-patients?select=Characteristics_Corona_patients+version5+6%E2%80%937%E2%80%9320.csv
