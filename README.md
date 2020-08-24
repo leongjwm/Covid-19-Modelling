@@ -1,5 +1,5 @@
 # Covid-19-Modelling
-A data science code project for Lifehack 2020 datathon competition by NUS.
+A data science code project for [Lifehack 2020 datathon competition by NUS](https://lifehack.nuscomputing.com/).
 
 Our group reached the top 10 finals round.
 
