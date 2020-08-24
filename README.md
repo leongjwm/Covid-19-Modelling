@@ -1,5 +1,5 @@
 # Covid-19-Modelling
-A data science project for the [Lifehack 2020 Datathon Competition by NUS](https://lifehack.nuscomputing.com/).
+A data science project for the [Lifehack 2020 Datathon Competition organised by the National University of Singapore (NUS)](https://lifehack.nuscomputing.com/).
 
 [![theme](https://github.com/marcus2188/Covid-19-Modelling/raw/master/misc/lifehack2020_theme.png)](#theme)
 
